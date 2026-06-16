@@ -129,7 +129,7 @@ dnf install -y \
     akmod-nvidia \
     xorg-x11-drv-nvidia-cuda \
     xorg-x11-drv-nvidia-power \
-    nvidia-vaapi-driver \
+    libva-nvidia-driver \
     libva-utils \
     vulkan-loader \
     nvidia-gpu-firmware
